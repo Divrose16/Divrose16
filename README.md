@@ -1,4 +1,13 @@
-## Hi there 👋
+## 👋 Hey there! I'm Divrose
+
+🌱 **Currently Exploring:** Machine Learning, Open Source, Competitive Programming  
+💡 **Interests:** AI, Data Science, Research, and Problem-Solving  
+📖 **Learning:** Kaggle, GitHub, and Open Source Contributions  
+
+### 📫 Find Me Here:
+[![Kaggle](https://www.kaggle.com/divrose)
+
+⚡ *"Learning, growing, and thriving—one step at a time."*
 
 <!--
 **Divrose16/Divrose16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
